@@ -4,6 +4,7 @@
   "description": "A web scraper that extract data from urk",
   "main": "app.js",
   "scripts": {
+    "start": "nodemon app/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
