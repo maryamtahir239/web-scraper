@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# MongoDB data files
+data/
+
+# Log files
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Other files
+coverage/

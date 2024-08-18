@@ -1,0 +1,22 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper that extract data from urk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "puppeteer",
+    "express"
+  ],
+  "author": "maryam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "puppeteer": "^23.1.0"
+  }
+}
